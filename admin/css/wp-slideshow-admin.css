@@ -1,0 +1,12 @@
+.wp-slider-add-btn {width: 100%;display: block;text-align: right;margin: 10px 0;}
+.wp-slider-lists {width: 97%;display: block;margin-top: 10px;background: #FFF;padding: 20px;border-radius: 10px;box-shadow: 0 0 10px #CCC;}
+.wp-slider-lists ul {list-style: none;text-align: center;}
+.wp-slider-lists ul li {width: 15%;display: inline-block;min-height: 200px;cursor:move;margin: 0 20px 30px 0;border: 1px solid #CCC;padding: 10px;position: relative;background: #FFFFFF;border-radius: 5px;vertical-align: top;box-shadow: 0 0 10px #CCC;}
+.wp-slider-lists ul li img {width: 100%;}
+.wp-slider-lists ul li a {position: absolute;top: -10px;right: -8px;text-decoration: none;color: red;}
+.wp-slider-lists ul li a span {font-size: 25px;line-height: 19px;}
+.slide-counts {width: 100%;display: block;text-align: right;}
+.slide-counts p.slide-count {font-size: 18px;}
+.slide-counts p.slide-count span {font-weight: bold;}
+.notification-wrap {width: 100%;display: block;}
+.notification-wrap p.notification {display:none;background: #FFF;padding: 10px;border-left: 5px solid #1eca1e;font-size: 14px;}

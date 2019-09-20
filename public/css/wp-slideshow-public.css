@@ -1,0 +1,4 @@
+#wp_slider img {width: 100%;}
+#wp_slider a {display: block;text-decoration: none;box-shadow: none;}
+#wp_slider a {background: no-repeat;}
+#wp_slider a span {color: #000;}
